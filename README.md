@@ -148,7 +148,7 @@ Using **Nmap** to identify open ports and understand the security risks associat
 ```
 
 ## OUTPUT:
-![](Output/1.jpg)
+![](OutputImages/SYN_Scan.png)
 
 # Explanation:
 
@@ -202,7 +202,7 @@ nmap 192.168.120.1 -sC -sV
 
 ## OUTPUT:
 
-![](images/2.jpg)
+![](OutputImages/ScriptScan.png)
 
 # Explanation:
 
@@ -243,7 +243,7 @@ nmap 192.168.120.1 -p 139 -sC -sV
 
 ## OUTPUT:
 
-![](images/2.jpg)
+![](OutputImages/Scan_Port.png)
 
 # Explanation:
 
